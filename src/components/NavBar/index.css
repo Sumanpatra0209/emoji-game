@@ -1,0 +1,41 @@
+/* Write your code here. */
+
+.navBarContainer {
+  display: flex;
+  justify-content: center;
+  background-color: #ffffff33;
+  padding: 10px;
+}
+
+.titleScoreContainer {
+  display: flex;
+  justify-content: space-between;
+}
+
+.logoTitleContainer {
+  display: flex;
+  align-items: center;
+}
+
+.emojiLogo {
+  width: 48px;
+}
+
+.title {
+  color: #ffffff;
+  font-family: 'Roboto';
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.scoreContainer {
+  display: flex;
+}
+
+.score {
+  color: #ffffff;
+  font-family: 'Roboto';
+  font-size: 24px;
+  font-weight: 500;
+  margin-left: 32px;
+}
